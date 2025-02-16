@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.3",
-    "htmx.org": "^2.0.4",
-    "sass": "^1.85.0"
+    "htmx.org": "^2.0.4"
   }
 }
